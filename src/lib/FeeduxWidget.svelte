@@ -6,7 +6,7 @@
 
   
 </script>
-<Popover class="fixed bottom-4 right-4 md:bottom-7 md:right-7 flex flex-col items-end">
+<Popover class="fixed bottom-4 right-4 md:bottom-7 md:right-7 flex flex-col items-end" data-html2canvas-ignore="true">
   
     <PopoverPanel>
       <FeeduxContainer title="Deixe seu Feedback" />

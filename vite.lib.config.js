@@ -9,5 +9,9 @@ export default defineConfig({
       name: 'FeeDux',
     }
   },
-  plugins: [svelte()]
+  plugins: [svelte({
+    compilerOptions: {
+      customElement: true
+    }
+  })]
 })
